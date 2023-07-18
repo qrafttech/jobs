@@ -1,0 +1,12 @@
+{
+  "name": "qraft-javascript-test",
+  "version": "0.0.1",
+  "description": "Qraft JavaScript test",
+  "repository": "https://github.com/qrafttech/jobs",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  }
+}
