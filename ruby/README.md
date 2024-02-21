@@ -25,9 +25,7 @@ Please also note that:
 
 ## Sending Your Results
 
-Once you are done, please send your results to someone from Qraft.
-
-- If you are already in discussion with us, send it directly to the person you are talking to.
+Once you are done, please send your results to someone from Qraft. If you are already in discussion with us, send it directly to the person you are talking to.
 
 You can send your Github project link or zip your directory and send it via email.
 If you do not use Github, don't forget to attach your `.git` folder.
